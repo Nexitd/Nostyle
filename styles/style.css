@@ -150,7 +150,7 @@ footer {
 	}
 
 	main {
-		height: 180vh;
+		height: auto;
 	}
 
 	.row {
